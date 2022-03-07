@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=SSOsh's_github%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
+
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/tngh147258)
 
 Stack
 https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
