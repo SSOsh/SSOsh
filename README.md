@@ -6,7 +6,7 @@
 Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Github-3766AB?style=flat-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-3766AB?style=flat-square&logo=Github&logoColor=white"/>
 
 <!--
 **SSOsh/SSOsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
