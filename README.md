@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=SSOsh's_github%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=SSOsh's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=****)](https://solved.ac/profile/tngh147258)
