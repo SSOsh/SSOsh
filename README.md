@@ -9,15 +9,13 @@
 ### Level 🤔
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngh147258)](https://solved.ac/tngh147258)
 
-## 👍Stack
-### Langagues & Tools
+## 👍Studying 📖
+### Languagues
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?&style=for-the-badge&logo=Elixir&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntellijIDEA-000000.svg?&style=for-the-badge&logo=IntellijIDEA&logoColor=white)
 
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
