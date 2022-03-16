@@ -9,7 +9,7 @@
 ### Level 🤔
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngh147258)](https://solved.ac/tngh147258)
 
-## 👍Studying 📖
+## Studying 📖
 ### Languagues
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
