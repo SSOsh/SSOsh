@@ -24,6 +24,6 @@
 ## Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tngh147258@naver.com)](mailto:tngh147258@naver.com)
 <img
-src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sso_suho/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:quf8093@gmail.com">
