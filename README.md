@@ -26,4 +26,4 @@
 <img
 src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/sso_suho/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:quf8093@gmail.com">
+</a> <a href="mailto:tngh147258@gmail.com">
