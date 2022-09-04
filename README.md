@@ -27,6 +27,9 @@
 ### Databases
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white)
 
+### Infra
+<img src="https://camo.githubusercontent.com/a63d446ea7eb4ce0ace0eb6b8f7fe00da02933b2f16baae7e7de800aef446355/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e204157532d6f72616e67653f7374796c653d666c6174266c6f676f3d416d617a6f6e253230415753266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Amazon AWS-orange?style=flat&amp;logo=Amazon%20AWS&amp;logoColor=white" style="max-width: 100%;">
+
 ## Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tngh147258@naver.com)](mailto:tngh147258@naver.com)
 <img
