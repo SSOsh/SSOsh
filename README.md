@@ -3,7 +3,7 @@
 # DO SU HO 😊
 
 ## PortPolio :)
-<a href="https://suho-portpolio.notion.site/ed1b0d0f17dd4666a4cb53f477ba11ed"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" height="100" width="100"></a>
+<a href="https://ssosuho.notion.site/ssosuho/ed1b0d0f17dd4666a4cb53f477ba11ed"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" height="100" width="100"></a>
 
 ## My Github Stats
 [![SSOsh's github stats](https://github-readme-stats.vercel.app/api?username=SSOsh)](https://github.com/SSOsh/github-readme-stats)
